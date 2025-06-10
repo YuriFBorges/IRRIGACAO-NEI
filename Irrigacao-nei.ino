@@ -9,24 +9,24 @@
 #include <SinricProTemperaturesensor.h>
 
 // Configuração de Wi-Fi primário
-#define WIFI_SSID1        "CLYP_2G"
-#define WIFI_PASSWORD1    "Clyp@2023"
+#define WIFI_SSID1        ""
+#define WIFI_PASSWORD1    ""
 
 // Configuração de Wi-Fi secundário
-#define WIFI_SSID2        "PROXXIMA-CLYP_2G"
-#define WIFI_PASSWORD2    "Clyp@2022"
+#define WIFI_SSID2        ""
+#define WIFI_PASSWORD2    ""
 
 // Configuração de Wi-Fi terciário
-#define WIFI_SSID3        "ARGOS BANCADA_2G"
-#define WIFI_PASSWORD3    "Argos172"
+#define WIFI_SSID3        ""
+#define WIFI_PASSWORD3    ""
 
 #define WIFI_TIMEOUT_MS   10000 // Tempo limite para conexão Wi-Fi (10 segundos)
 
 #define BAUD_RATE         115200
-#define APP_KEY    "519b2393-5138-4808-afed-6a36e9c12898"
-#define APP_SECRET "601f2aef-806a-4cb4-b8ec-2cf483b62dc4-2820fd6d-a75f-4bf6-b79c-36f232cfcb68"
-#define SWITCH_ID  "67bda66542d73b1d7c573a1c"
-#define TEMP_SENSOR_ID    "67bda66542d73b1d7c573a1c"
+#define APP_KEY    ""
+#define APP_SECRET ""
+#define SWITCH_ID  ""
+#define TEMP_SENSOR_ID    ""
 
 #define DHT_PIN           21
 #define RELAY_PIN         5
